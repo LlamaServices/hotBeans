@@ -1,3 +1,4 @@
+# 92 poena
 from itertools import permutations
 
 lst = [int(x) for x in input().split()]
