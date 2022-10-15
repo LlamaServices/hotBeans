@@ -1,5 +1,5 @@
-# Ovo ne valja nizasta ali me boli glava da napisem sve ispocetka
-# Napisacu razumljiviju verziju kad tad
+# Ovo resenje je ocajno napisano, bolela me je glava kad sam ga pisao tako da
+# *Ne gledajte ovo, vec D2*
 # 48 poena 
 
 instr = input()
