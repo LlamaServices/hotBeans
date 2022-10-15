@@ -1,3 +1,4 @@
+# 58 poena
 starting_number = int(input())
 number = starting_number
 while True:
@@ -8,4 +9,3 @@ while True:
     if number == 1:
         print("da")
         break
-

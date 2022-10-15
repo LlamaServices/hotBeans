@@ -1,3 +1,4 @@
+# Skor je ?
 n =  int(input())
 l = list()
 for x in range(0, n):
