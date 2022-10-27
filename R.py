@@ -1,4 +1,4 @@
-# 51 poena
+# 100 poena
 from math import sqrt
 
 def prost(br):
@@ -14,7 +14,7 @@ def find(num):
         print(num)
         return
     lower = higher = num
-    while not prost(lower) or not prost(higher):
+    while not (prost(lower) or prost(higher)):
         lower -= 1
         higher += 1
     if prost(lower): print(lower)
