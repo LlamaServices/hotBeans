@@ -2,11 +2,7 @@
 from time import time as t
 def meow(num):
     def sumDig(num):
-        suma = 0
-        while(num>0):
-            suma += (num%10)**2
-            num //=10
-        return suma
+        return sum([int(x)**2 for x in str(num)])
 
     starting_num = num
     c = 0
