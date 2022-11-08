@@ -1,4 +1,4 @@
-# 100 poena
+# 100 poena (daje 96 tokom provere koda, a posle pise 100 na pregledu, tako da nznm)
 l = [int(x) for x in input().split()]
 m = []
 count = 1
