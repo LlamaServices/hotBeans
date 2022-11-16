@@ -1,0 +1,1 @@
+necu da pisem rekurziju makar me obesili
