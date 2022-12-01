@@ -1,5 +1,3 @@
-from pandas import DataFrame
-
 class Solution:
     def rotate(self, matrix: list[list[int]]) -> None:
         n = len(matrix[0])
